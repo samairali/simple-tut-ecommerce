@@ -1,0 +1,12 @@
+.main-layout{
+    height: calc(100% - (6.5rem + 6.5rem));
+    .content{
+        width: 100%;
+        max-width: 100%;
+    }
+}
+.normal-pages-main-layout{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding-top: 10px;
+}

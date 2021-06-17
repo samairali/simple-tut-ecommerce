@@ -1,0 +1,12 @@
+.footer-main-area{
+    height: 6.5rem;
+    position: relative;
+
+    p{
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        text-align: center;
+        width: 100%;
+    }
+}
