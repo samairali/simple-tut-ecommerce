@@ -6,7 +6,10 @@ const Menu = () => {
         <div className="main-menu-items">
             <ul>
                 <li>
-                    <Link to="registeration">Registeration</Link>
+                    <Link to="/registeration">Registeration</Link>
+                </li>
+                <li>
+                    <Link to="/login">Login</Link>
                 </li>
             </ul>
         </div>

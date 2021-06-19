@@ -28,6 +28,10 @@
     ul {
         li{
             display: inline-block;
+            padding-right: 10px;
+            &:last-child{
+                padding-right: 0px;
+            }
             a{
                 text-transform: uppercase;
                 font-size: 18px;
